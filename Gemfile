@@ -29,6 +29,12 @@ gem 'spring',        group: :development
 #adding user auth
 gem 'devise'
 
+#bootstrap
+gem 'bootstrap-sass', '~> 3.3.0'
+
+#autoprefixer
+gem 'autoprefixer-rails'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
